@@ -19,6 +19,10 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.escobar-bulletin.list" action="/anonymous/escobar-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.escobar-bulletin.create" action="/anonymous/escobar-bulletin/create"/>
+
+			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.josescrue-favourite-link" action="https://www.motogp.com/es"/>
 		</acme:menu-option>

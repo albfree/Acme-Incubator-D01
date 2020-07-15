@@ -32,6 +32,9 @@ master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.josescrue-favourite-link = Enlace favorito de josescrue
 
+master.menu.anonymous.escobar-bulletin.list = Lista de EscobarBulletins
+master.menu.anonymous.escobar-bulletin.create = Nuevo EscobarBulletin
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
