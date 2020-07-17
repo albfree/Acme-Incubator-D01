@@ -20,8 +20,19 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.brayan" action="https://github.com/brapercob/"/>
+		</acme:menu-option>
+		
+		<acme:menu-option code="master.menu.bulletins.list" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.perezBulletin.list" action="/anonymous/perez-bulletin/list" />
+		<acme:menu-separator />
 		</acme:menu-option>
 
+		<acme:menu-option code="master.menu.bulletins.create" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.perezBulletin.create" action="/anonymous/perez-bulletin/create" />
+			<acme:menu-separator />
+		</acme:menu-option>
+		
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
 			<acme:menu-separator/>
