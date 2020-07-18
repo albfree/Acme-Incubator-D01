@@ -1,12 +1,12 @@
 
-package acme.features.anonymous.escobarBulletin;
+package acme.features.anonymous.bulletins.escobarBulletin;
 
 import java.util.Date;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import acme.entities.escobarBulletin.EscobarBulletin;
+import acme.entities.bulletins.EscobarBulletin;
 import acme.framework.components.Errors;
 import acme.framework.components.Model;
 import acme.framework.components.Request;

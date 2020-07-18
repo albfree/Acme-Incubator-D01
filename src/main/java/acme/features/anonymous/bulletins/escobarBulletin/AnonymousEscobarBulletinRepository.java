@@ -1,12 +1,12 @@
 
-package acme.features.anonymous.escobarBulletin;
+package acme.features.anonymous.bulletins.escobarBulletin;
 
 import java.util.Collection;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
-import acme.entities.escobarBulletin.EscobarBulletin;
+import acme.entities.bulletins.EscobarBulletin;
 import acme.framework.repositories.AbstractRepository;
 
 @Repository

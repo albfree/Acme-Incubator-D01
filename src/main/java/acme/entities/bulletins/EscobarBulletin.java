@@ -1,5 +1,5 @@
 
-package acme.entities.escobarBulletin;
+package acme.entities.bulletins;
 
 import java.util.Date;
 

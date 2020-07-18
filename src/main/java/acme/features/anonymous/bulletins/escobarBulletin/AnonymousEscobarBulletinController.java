@@ -1,5 +1,5 @@
 
-package acme.features.anonymous.escobarBulletin;
+package acme.features.anonymous.bulletins.escobarBulletin;
 
 import javax.annotation.PostConstruct;
 
@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import acme.entities.escobarBulletin.EscobarBulletin;
+import acme.entities.bulletins.EscobarBulletin;
 import acme.framework.components.BasicCommand;
 import acme.framework.controllers.AbstractController;
 import acme.framework.entities.Anonymous;
