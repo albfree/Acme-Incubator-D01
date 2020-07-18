@@ -25,11 +25,16 @@ master.menu.home = Inicio
 master.menu.sign-up = Registrarse
 master.menu.sign-in = Entrar
 master.menu.sign-out = Salir
+master.menu.bulletins.list = Listas de Bulletins
+master.menu.bulletins.create = Crear Bulletins
 
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.joslobtro-favourite-link = Enlace favorito de joslobtro
+master.menu.anonymous.lobatoBulletin.list = Lista de lobatoBulletins
+master.menu.anonymous.lobatoBulletin.create = Crear lobatoBulletin
 
 # master.menu.administrator ###################################################
 

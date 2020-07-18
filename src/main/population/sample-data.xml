@@ -16,5 +16,17 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<import resource="conversion-service.xml" />
+	
+	<bean id="lobatoBulletin01" class="acme.entities.bulletins.LobatoBulletin">
+		<property name="moment" value="2020/06/06 10:00"/>
+		<property name="scientist" value="Neron"/>
+		<property name="investigation" value="How to put out a fire in one day"/>
+	</bean>
+
+	<bean id="lobatoBulletin02" class="acme.entities.bulletins.LobatoBulletin">
+		<property name="moment" value="2020/07/07 10:00"/>
+		<property name="scientist" value="Rocky"/>
+		<property name="investigation" value="importance of a good punch"/>
+	</bean>
 
 </beans>
