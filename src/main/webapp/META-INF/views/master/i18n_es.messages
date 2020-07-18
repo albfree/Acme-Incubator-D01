@@ -25,15 +25,8 @@ master.menu.home = Inicio
 master.menu.sign-up = Registrarse
 master.menu.sign-in = Entrar
 master.menu.sign-out = Salir
-
-
-# master.bulletins ############################################################
-
-master.menu.bulletins.list = Lista de boletines
-master.menu.bulletins.create = Crear un boletín
-
-master.menu.anonymous.perezBulletin.list = Lista de boletines de Brayan
-master.menu.anonymous.perezBulletin.create = Crear boletín de Brayan
+master.menu.bulletins.list = Listas de Bulletins
+master.menu.bulletins.create = Crear Bulletins
 
 # master.menu.anonymous #######################################################
 
@@ -42,6 +35,7 @@ master.menu.anonymous.albgueram = GitHub de Alberto
 master.menu.anonymous.josescrue-favourite-link = Enlace favorito de josescrue
 master.menu.anonymous.favourite-link.diego = Enlace favorito de Diego
 master.menu.anonymous.favourite-link.brayan = Link de Brayan
+master.menu.anonymous.joslobtro-favourite-link = Enlace favorito de joslobtro
 
 # master.menu.anonymous.bulletin #######################################################
 
@@ -56,6 +50,12 @@ master.menu.anonymous.escobar-bulletin.create = Nuevo EscobarBulletin
 
 master.menu.bulletins.horrillo-bulletin.list = Horrillo bulletin
 master.menu.bulletins.horrillo-bulletin.create = Nuevo Horrillo bulletin
+
+master.menu.anonymous.perezBulletin.list = Lista de boletines de Brayan
+master.menu.anonymous.perezBulletin.create = Crear boletín de Brayan
+
+master.menu.anonymous.lobatoBulletin.list = Lista de lobatoBulletins
+master.menu.anonymous.lobatoBulletin.create = Crear lobatoBulletin
 
 # master.menu.administrator ###################################################
 

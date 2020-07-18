@@ -30,3 +30,4 @@ The following tools and components are required:
 # Alberto Guerrero Ramírez (albgueram@alum.us.es)
 # Diego Horrillo Durán
 # Brayan Nicolás Pérez Cobos (brapercob@alum.us.es)
+# José Manuel Lobato Troncoso (joslobtro@alum.us.es)

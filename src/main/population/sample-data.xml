@@ -60,27 +60,24 @@
 		<property name ="link" value="https://ev.us.es"/>
 		<property name ="country" value="Thailand"/>
 	</bean>
-
-	<!-- HorrilloBulletin -->
 	
 	<bean id="HorrilloBulletin01" class="acme.entities.bulletins.HorrilloBulletin">
-		<property name="author" value="Pedro Can"></property>
-		<property name="body" value="Hello"></property>
-		<property name="time" value="2019/09/09 10:00"></property>
+		<property name="author" value="Pedro Can"/>
+		<property name="body" value="Hello"/>
+		<property name="time" value="2019/09/09 10:00"/>
 	</bean>
 	
 	<bean id="HorrilloBulletin02" class="acme.entities.bulletins.HorrilloBulletin">
-		<property name="author" value="Debra VanLunn"></property>
-		<property name="body" value="Hello too"></property>
-		<property name="time" value="2019/09/09 12:30"></property>
+		<property name="author" value="Debra VanLunn"/>
+		<property name="body" value="Hello too"/>
+		<property name="time" value="2019/09/09 12:30"/>
 	</bean>
 	
 	<bean id="HorrilloBulletin03" class="acme.entities.bulletins.HorrilloBulletin">
-		<property name="author" value="Margarett Diesel"></property>
-		<property name="body" value="Bye"></property>
-		<property name="time" value="2019/12/09 22:00"></property>
+		<property name="author" value="Margarett Diesel"/>
+		<property name="body" value="Bye"/>
+		<property name="time" value="2019/12/09 22:00"/>
 	</bean>
-
 
 	<bean id="perezBulletin01" class="acme.entities.bulletins.PerezBulletin">
 		<property name="moment" value="2020/06/06 10:00"/>
@@ -92,7 +89,6 @@
 		<property name="moment" value="2020/06/15 15:00"/>
 		<property name="author" value="Brayan Pérez"/>
 		<property name="event" value="Today is June 15th."/>
-		
 	</bean>
 	
 	<bean id="perezBulletin03" class="acme.entities.bulletins.PerezBulletin">
@@ -100,4 +96,17 @@
 		<property name="author" value="Brayan Pérez"/>
 		<property name="event" value="June 20th World Refugee Day"/>
 	</bean>
+	
+	<bean id="lobatoBulletin02" class="acme.entities.bulletins.LobatoBulletin">
+		<property name="moment" value="2020/07/07 10:00"/>
+		<property name="scientist" value="Rocky"/>
+		<property name="investigation" value="importance of a good punch"/>
+	</bean>
+
+	<bean id="lobatoBulletin01" class="acme.entities.bulletins.LobatoBulletin">
+		<property name="moment" value="2020/06/06 10:00"/>
+		<property name="scientist" value="Neron"/>
+		<property name="investigation" value="How to put out a fire in one day"/>
+	</bean>
+
 </beans>
