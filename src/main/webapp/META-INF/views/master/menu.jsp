@@ -24,18 +24,24 @@
 			<acme:menu-suboption code="master.menu.anonymous.albgueram" action="https://github.com/albfree"/>
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.josescrue-favourite-link" action="https://www.motogp.com/es"/>
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.diego" action="https://www.linkedin.com/in/diego-horrillo-duran-99b3b7197/"/>
 		</acme:menu-option>
 		
 		<acme:menu-option code="master.menu.bulletins.list" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.guerreroBulletin.list" action="/anonymous/guerrero-bulletin/list" />
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.escobar-bulletin.list" action="/anonymous/escobar-bulletin/list"/>
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.bulletins.horrillo-bulletin.list" action="/anonymous/horrillo-bulletin/list"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.bulletins.create" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.guerreroBulletin.create" action="/anonymous/guerrero-bulletin/create" />
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.escobar-bulletin.create" action="/anonymous/escobar-bulletin/create"/>
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.bulletins.horrillo-bulletin.create" action="/anonymous/horrillo-bulletin/create"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
