@@ -20,7 +20,12 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
-			<acme:menu-suboption code="master.menu.consumer.favourite-link.diego" action="https://www.linkedin.com/in/diego-horrillo-duran-99b3b7197/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.diego" action="https://www.linkedin.com/in/diego-horrillo-duran-99b3b7197/"/>
+		</acme:menu-option>
+		
+		<acme:menu-option code="master.menu.bulletins" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.bulletins.horrillo-bulletin.list" action="/anonymous/horrillo-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.bulletins.horrillo-bulletin.create" action="/anonymous/horrillo-bulletin/create"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
