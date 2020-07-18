@@ -30,7 +30,16 @@ master.menu.sign-out = Sign out
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Favourite link
+master.menu.anonymous.albgueram = Alberto's GitHub
 master.menu.anonymous.josescrue-favourite-link = josescrue's favourite link
+
+# master.menu.anonymous.bulletin #######################################################
+
+master.menu.bulletins.list = Bulletins list
+master.menu.bulletins.create = Create a bulletin
+
+master.menu.anonymous.guerreroBulletin.list = Guerrero's bulletins list
+master.menu.anonymous.guerreroBulletin.create =  Create a Guerrero bulletin
 
 master.menu.anonymous.escobar-bulletin.list = EscobarBulletins' List
 master.menu.anonymous.escobar-bulletin.create = New EscobarBulletin
