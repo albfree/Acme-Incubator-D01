@@ -16,5 +16,25 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<import resource="conversion-service.xml" />
+	
+	<!-- Bulletins -->
+	
+	<bean id="guerreroBulletin1" class="acme.entities.bulletins.GuerreroBulletin">
+		<property name="name" value="Kratos" />
+		<property name="quote" value="The cycle ends here..." />
+		<property name="moment" value="2018/03/10 15:50" />
+	</bean>
+
+	<bean id="guerreroBulletin2" class="acme.entities.bulletins.GuerreroBulletin">
+		<property name="name" value="Milton Friedman" />
+		<property name="quote" value="La libertad individual es lo que debe primar." />
+		<property name="moment" value="2017/10/02 19:00" />
+	</bean>
+
+	<bean id="guerreroBulletin3" class="acme.entities.bulletins.GuerreroBulletin">
+		<property name="name" value="Persona de paz" />
+		<property name="quote" value="Todos somos iguales." />
+		<property name="moment" value="2019/12/08 11:00" />
+	</bean>
 
 </beans>
