@@ -23,6 +23,14 @@
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.albgueram" action="https://github.com/albfree"/>
 		</acme:menu-option>
+		
+		<acme:menu-option code="master.menu.bulletins.list" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.guerreroBulletin.list" action="/anonymous/guerrero-bulletin/list" />
+		</acme:menu-option>
+
+		<acme:menu-option code="master.menu.bulletins.create" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.guerreroBulletin.create" action="/anonymous/guerrero-bulletin/create" />
+		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
