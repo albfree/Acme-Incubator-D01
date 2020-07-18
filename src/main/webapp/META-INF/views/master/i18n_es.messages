@@ -26,6 +26,15 @@ master.menu.sign-up = Registrarse
 master.menu.sign-in = Entrar
 master.menu.sign-out = Salir
 
+
+# master.bulletins ############################################################
+
+master.menu.bulletins.list = Lista de boletines
+master.menu.bulletins.create = Crear un boletín
+
+master.menu.anonymous.perezBulletin.list = Lista de boletines de Brayan
+master.menu.anonymous.perezBulletin.create = Crear boletín de Brayan
+
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
@@ -33,6 +42,7 @@ master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.albgueram = GitHub de Alberto
 master.menu.anonymous.josescrue-favourite-link = Enlace favorito de josescrue
 master.menu.anonymous.favourite-link.diego = Enlace favorito de Diego
+master.menu.anonymous.favourite-link.brayan = Link de Brayan
 
 # master.menu.anonymous.bulletin #######################################################
 
