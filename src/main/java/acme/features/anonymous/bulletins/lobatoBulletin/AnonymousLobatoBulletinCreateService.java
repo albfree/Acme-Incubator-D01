@@ -42,7 +42,7 @@ public class AnonymousLobatoBulletinCreateService implements AbstractCreateServi
 		assert entity != null;
 		assert model != null;
 
-		request.unbind(entity, model, "scientis", "investigation");
+		request.unbind(entity, model, "scientist", "investigation");
 	}
 
 	@Override
