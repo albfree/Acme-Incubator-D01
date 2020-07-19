@@ -17,7 +17,26 @@
 
 	<import resource="conversion-service.xml" />
 	
-	<!-- EscobarBulletins -->
+	<!-- Bulletins -->
+	
+	<bean id="guerreroBulletin1" class="acme.entities.bulletins.GuerreroBulletin">
+		<property name="name" value="Kratos" />
+		<property name="quote" value="The cycle ends here..." />
+		<property name="moment" value="2018/03/10 15:50" />
+	</bean>
+	
+	<bean id="guerreroBulletin2" class="acme.entities.bulletins.GuerreroBulletin">
+		<property name="name" value="Milton Friedman" />
+		<property name="quote" value="La libertad individual es lo que debe primar." />
+		<property name="moment" value="2017/10/02 19:00" />
+	</bean>
+
+	<bean id="guerreroBulletin3" class="acme.entities.bulletins.GuerreroBulletin">
+		<property name="name" value="Persona de paz" />
+		<property name="quote" value="Todos somos iguales." />
+		<property name="moment" value="2019/12/08 11:00" />
+	</bean>
+	
 	<bean id="escobarBulletin01" class ="acme.entities.bulletins.EscobarBulletin">
 		<property name ="author" value="John Does"/>
 		<property name ="text" value="I'm happy"/>
@@ -40,6 +59,54 @@
 		<property name ="moment" value="2019/09/07 00:00"/>
 		<property name ="link" value="https://ev.us.es"/>
 		<property name ="country" value="Thailand"/>
+	</bean>
+	
+	<bean id="HorrilloBulletin01" class="acme.entities.bulletins.HorrilloBulletin">
+		<property name="author" value="Pedro Can"/>
+		<property name="body" value="Hello"/>
+		<property name="time" value="2019/09/09 10:00"/>
+	</bean>
+	
+	<bean id="HorrilloBulletin02" class="acme.entities.bulletins.HorrilloBulletin">
+		<property name="author" value="Debra VanLunn"/>
+		<property name="body" value="Hello too"/>
+		<property name="time" value="2019/09/09 12:30"/>
+	</bean>
+	
+	<bean id="HorrilloBulletin03" class="acme.entities.bulletins.HorrilloBulletin">
+		<property name="author" value="Margarett Diesel"/>
+		<property name="body" value="Bye"/>
+		<property name="time" value="2019/12/09 22:00"/>
+	</bean>
+
+	<bean id="perezBulletin01" class="acme.entities.bulletins.PerezBulletin">
+		<property name="moment" value="2020/06/06 10:00"/>
+		<property name="author" value="Brayan Pérez"/>
+		<property name="event" value="Day 97 of quarantine."/>
+	</bean>
+
+	<bean id="perezBulletin02" class="acme.entities.bulletins.PerezBulletin">
+		<property name="moment" value="2020/06/15 15:00"/>
+		<property name="author" value="Brayan Pérez"/>
+		<property name="event" value="Today is June 15th."/>
+	</bean>
+	
+	<bean id="perezBulletin03" class="acme.entities.bulletins.PerezBulletin">
+		<property name="moment" value="2020/06/20 12:00"/>
+		<property name="author" value="Brayan Pérez"/>
+		<property name="event" value="June 20th World Refugee Day"/>
+	</bean>
+	
+	<bean id="lobatoBulletin02" class="acme.entities.bulletins.LobatoBulletin">
+		<property name="moment" value="2020/07/07 10:00"/>
+		<property name="scientist" value="Rocky"/>
+		<property name="investigation" value="importance of a good punch"/>
+	</bean>
+
+	<bean id="lobatoBulletin01" class="acme.entities.bulletins.LobatoBulletin">
+		<property name="moment" value="2020/06/06 10:00"/>
+		<property name="scientist" value="Neron"/>
+		<property name="investigation" value="How to put out a fire in one day"/>
 	</bean>
 
 </beans>

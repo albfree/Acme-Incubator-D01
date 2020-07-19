@@ -25,15 +25,37 @@ master.menu.home = Home
 master.menu.sign-up = Sign up
 master.menu.sign-in = Sign in
 master.menu.sign-out = Sign out
+master.menu.bulletins.list = Lists of Bulletins
+master.menu.bulletins.create = Creates of Bulletins
 
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
-master.menu.anonymous.favourite-link = Favourite link
+master.menu.anonymous.albgueram = Alberto's GitHub
 master.menu.anonymous.josescrue-favourite-link = josescrue's favourite link
+master.menu.anonymous.favourite-link.diego = Diego's favourite link
+master.menu.anonymous.favourite-link.brayan = Brayan's link
+master.menu.anonymous.joslobtro-favourite-link = Enlace favorito de joslobtro
+
+# master.menu.anonymous.bulletin #######################################################
+
+master.menu.bulletins.list = Bulletins list
+master.menu.bulletins.create = Create a bulletin
+
+master.menu.anonymous.guerrero-bulletin.list = Guerrero's bulletins list
+master.menu.anonymous.guerreroBulletin.create =  Create a Guerrero bulletin
 
 master.menu.anonymous.escobar-bulletin.list = EscobarBulletins' List
 master.menu.anonymous.escobar-bulletin.create = New EscobarBulletin
+
+master.menu.bulletins.horrillo-bulletin.list = Horrillo bulletin
+master.menu.bulletins.horrillo-bulletin.create = New Horrillo bulletin
+
+master.menu.anonymous.perezBulletin.list = List Brayan's bulletins
+master.menu.anonymous.perezBulletin.create = Create Brayan's bulletin
+
+master.menu.anonymous.lobatoBulletin.list = List of lobatoBulletins
+master.menu.anonymous.lobatoBulletin.create = Create lobatoBulletin
 
 # master.menu.administrator ###################################################
 
@@ -45,6 +67,7 @@ master.menu.administrator.shutdown = Shut down
 
 master.menu.provider = Provider
 master.menu.provider.favourite-link = Favourite link
+master.menu.anonymous.joslobtro-favourite-link = joslobtro's favourite link
 
 # master.menu.consumer ##########################################################
 
@@ -74,12 +97,12 @@ master.footer.label.spanish = Spanish
 
 # master.company ##############################################################
 
-master.company.title = La compañía
+master.company.title = The Company
 master.company.text = \
-	Starter Project, Inc. is a fictitious fictitious company that provides a \
-	starter project for the students of the Design and Testing subject of the \
-	Software Engineering Curriculum of the University of Sevilla.
-master.company.name = Starter Project, Inc.
+	Acme Incubator, Inc. is a fictitious fictitious company that provides a \
+	Acme Incubator for the students of the Design and Testing subject of the \
+	Software Engineering Curriculum of the University of Seville.
+master.company.name = Acme Incubator, Inc.
 master.company.address = Number Street, City, State, Country
 master.company.phone = +000 123 456
 master.company.email = contact@acme.com

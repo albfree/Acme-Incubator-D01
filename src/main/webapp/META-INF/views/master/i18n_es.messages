@@ -25,15 +25,37 @@ master.menu.home = Inicio
 master.menu.sign-up = Registrarse
 master.menu.sign-in = Entrar
 master.menu.sign-out = Salir
+master.menu.bulletins.list = Listas de Bulletins
+master.menu.bulletins.create = Crear Bulletins
 
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.albgueram = GitHub de Alberto
 master.menu.anonymous.josescrue-favourite-link = Enlace favorito de josescrue
+master.menu.anonymous.favourite-link.diego = Enlace favorito de Diego
+master.menu.anonymous.favourite-link.brayan = Link de Brayan
+master.menu.anonymous.joslobtro-favourite-link = Enlace favorito de joslobtro
+
+# master.menu.anonymous.bulletin #######################################################
+
+master.menu.bulletins.list = Lista de bulletins
+master.menu.bulletins.create = Crear un bulletin
+
+master.menu.anonymous.guerrero-bulletin.list = Lista de bulletins de Guerrero
+master.menu.anonymous.guerreroBulletin.create = Crear bulletin de Guerrero
 
 master.menu.anonymous.escobar-bulletin.list = Lista de EscobarBulletins
 master.menu.anonymous.escobar-bulletin.create = Nuevo EscobarBulletin
+
+master.menu.bulletins.horrillo-bulletin.list = Horrillo bulletin
+master.menu.bulletins.horrillo-bulletin.create = Nuevo Horrillo bulletin
+
+master.menu.anonymous.perezBulletin.list = Lista de boletines de Brayan
+master.menu.anonymous.perezBulletin.create = Crear boletín de Brayan
+
+master.menu.anonymous.lobatoBulletin.list = Lista de lobatoBulletins
+master.menu.anonymous.lobatoBulletin.create = Crear lobatoBulletin
 
 # master.menu.administrator ###################################################
 
@@ -76,10 +98,10 @@ master.footer.label.spanish = Español
 
 master.company.title = La compañía
 master.company.text = \
-	Starter Project, Inc. es una compañía fictícia que proporciona un proyecto \
+	Acme Incubator, Inc. es una compañía fictícia que proporciona un proyecto \
 	plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
 	en Ingeniería del Software de la Universidad de Sevilla.
-master.company.name = Starter Project, Inc.
+master.company.name = Acme Incubator, Inc.
 master.company.address = Calle, número, Ciudad, Estado, País
 master.company.phone = +000 123 456
 master.company.email = contact@acme.com

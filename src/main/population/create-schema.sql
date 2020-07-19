@@ -40,6 +40,42 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `guerrero_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `moment` datetime(6),
+        `name` varchar(255),
+        `quote` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
+    create table `horrillo_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `author` varchar(255),
+        `body` varchar(255),
+        `time` datetime(6),
+        primary key (`id`)
+    ) engine=InnoDB;
+
+    create table `lobato_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `investigation` varchar(255),
+        `moment` datetime(6),
+        `scientist` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
+    create table `perez_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `author` varchar(255),
+        `event` varchar(255),
+        `moment` datetime(6),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `provider` (
        `id` integer not null,
         `version` integer not null,
