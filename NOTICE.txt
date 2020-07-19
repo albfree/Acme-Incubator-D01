@@ -31,3 +31,4 @@ The following tools and components are required:
 # Diego Horrillo Durán
 # Brayan Nicolás Pérez Cobos (brapercob@alum.us.es)
 # José Manuel Lobato Troncoso (joslobtro@alum.us.es)
+# José Manuel Escobar Ruesga (josescrue@alum.us.es)
