@@ -31,7 +31,7 @@
 		</acme:menu-option>
 		
 		<acme:menu-option code="master.menu.bulletins.list" access="isAnonymous()">
-			<acme:menu-suboption code="master.menu.anonymous.guerreroBulletin.list" action="/anonymous/guerrero-bulletin/list" />
+			<acme:menu-suboption code="master.menu.anonymous.guerrero-bulletin.list" action="/anonymous/guerrero-bulletin/list" />
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.escobar-bulletin.list" action="/anonymous/escobar-bulletin/list"/>
 			<acme:menu-separator/>

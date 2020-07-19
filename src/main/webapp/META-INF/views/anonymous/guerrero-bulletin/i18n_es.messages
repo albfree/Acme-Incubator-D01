@@ -8,9 +8,11 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-anonymous.guerreroBulletin.list.label.name = Nombre
-anonymous.guerreroBulletin.list.label.quote = Cita
-anonymous.guerreroBulletin.list.label.moment = Fecha
+anonymous.guerrero-bulletin.list.label.name = Nombre
+anonymous.guerrero-bulletin.list.label.quote = Cita
+anonymous.guerrero-bulletin.list.label.moment = Fecha
 
-anonymous.guerreroBulletin.form.button.create = Enviar
-anonymous.guerreroBulletin.form.button.return = Cancelar
+anonymous.guerrero-bulletin.form.label.name = Nombre
+anonymous.guerrero-bulletin.form.label.quote = Cita
+anonymous.guerrero-bulletin.form.button.create = Enviar
+anonymous.guerrero-bulletin.form.button.return = Cancelar

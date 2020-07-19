@@ -42,7 +42,7 @@ master.menu.anonymous.joslobtro-favourite-link = Enlace favorito de joslobtro
 master.menu.bulletins.list = Lista de bulletins
 master.menu.bulletins.create = Crear un bulletin
 
-master.menu.anonymous.guerreroBulletin.list = Lista de bulletins de Guerrero
+master.menu.anonymous.guerrero-bulletin.list = Lista de bulletins de Guerrero
 master.menu.anonymous.guerreroBulletin.create = Crear bulletin de Guerrero
 
 master.menu.anonymous.escobar-bulletin.list = Lista de EscobarBulletins

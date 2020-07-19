@@ -17,8 +17,8 @@
 
 <acme:list readonly="true">
 
-	<acme:list-column code="anonymous.guerreroBulletin.list.label.name" path="name" width="20%" />
-	<acme:list-column code="anonymous.guerreroBulletin.list.label.quote" path="quote" width="60%" />
-	<acme:list-column code="anonymous.guerreroBulletin.list.label.moment" path="moment" width="20%" />
+	<acme:list-column code="anonymous.guerrero-bulletin.list.label.name" path="name" width="20%" />
+	<acme:list-column code="anonymous.guerrero-bulletin.list.label.quote" path="quote" width="60%" />
+	<acme:list-column code="anonymous.guerrero-bulletin.list.label.moment" path="moment" width="20%" />
 
 </acme:list> 

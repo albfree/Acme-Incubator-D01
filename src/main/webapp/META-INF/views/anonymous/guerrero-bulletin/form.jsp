@@ -17,10 +17,10 @@
 
 <acme:form>
 
-	<acme:form-textbox code="anonymous.guerreroBulletin.list.label.name" path="name"/>
-	<acme:form-textbox code="anonymous.guerreroBulletin.list.label.quote" path="quote"/>
+	<acme:form-textbox code="anonymous.guerrero-bulletin.form.label.name" path="name"/>
+	<acme:form-textbox code="anonymous.guerrero-bulletin.form.label.quote" path="quote"/>
 
-	<acme:form-submit code="anonymous.guerreroBulletin.form.button.create" action="/anonymous/guerrero-bulletin/create"/>
-	<acme:form-return code="anonymous.guerreroBulletin.form.button.return"/>
+	<acme:form-submit code="anonymous.guerrero-bulletin.form.button.create" action="/anonymous/guerrero-bulletin/create"/>
+	<acme:form-return code="anonymous.guerrero-bulletin.form.button.return"/>
 
 </acme:form> 
