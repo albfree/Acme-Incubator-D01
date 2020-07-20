@@ -31,10 +31,10 @@ master.menu.bulletins.create = Crear Bulletins
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.albgueram = GitHub de Alberto
+master.menu.anonymous.albgueram = Enlace favorito de Alberto
 master.menu.anonymous.josescrue-favourite-link = Enlace favorito de josescrue
 master.menu.anonymous.favourite-link.diego = Enlace favorito de Diego
-master.menu.anonymous.favourite-link.brayan = Link de Brayan
+master.menu.anonymous.favourite-link.brayan = Enlace favorito de Brayan
 master.menu.anonymous.joslobtro-favourite-link = Enlace favorito de joslobtro
 
 # master.menu.anonymous.bulletin #######################################################

@@ -31,11 +31,11 @@ master.menu.bulletins.create = Creates of Bulletins
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
-master.menu.anonymous.albgueram = Alberto's GitHub
+master.menu.anonymous.albgueram = Alberto's favourite link
 master.menu.anonymous.josescrue-favourite-link = josescrue's favourite link
 master.menu.anonymous.favourite-link.diego = Diego's favourite link
-master.menu.anonymous.favourite-link.brayan = Brayan's link
-master.menu.anonymous.joslobtro-favourite-link = Enlace favorito de joslobtro
+master.menu.anonymous.favourite-link.brayan = Brayan's favourite link
+master.menu.anonymous.joslobtro-favourite-link = joslobtro's favourite link
 
 # master.menu.anonymous.bulletin #######################################################
 
@@ -67,7 +67,6 @@ master.menu.administrator.shutdown = Shut down
 
 master.menu.provider = Provider
 master.menu.provider.favourite-link = Favourite link
-master.menu.anonymous.joslobtro-favourite-link = joslobtro's favourite link
 
 # master.menu.consumer ##########################################################
 
