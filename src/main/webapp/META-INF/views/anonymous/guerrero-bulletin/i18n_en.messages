@@ -12,7 +12,7 @@ anonymous.guerrero-bulletin.list.label.name = Name
 anonymous.guerrero-bulletin.list.label.quote = Quote
 anonymous.guerrero-bulletin.list.label.moment = Moment
 
-anonymous.guerrero-bulletin.list.label.name = Name
-anonymous.guerrero-bulletin.list.label.quote = Quote
+anonymous.guerrero-bulletin.form.label.name = Name
+anonymous.guerrero-bulletin.form.label.quote = Quote
 anonymous.guerrero-bulletin.form.button.create = Send
 anonymous.guerrero-bulletin.form.button.return = Cancel
