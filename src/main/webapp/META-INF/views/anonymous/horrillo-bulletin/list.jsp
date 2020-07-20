@@ -15,10 +15,8 @@
 <%@taglib prefix="jstl" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@taglib prefix="acme" tagdir="/WEB-INF/tags"%>
 
-<acme:form>
-	<acme:form-textbox code="anonymous.bulletins.horrillo-bulletin.form.label.author" path="author"/>
-	<acme:form-textarea code="anonymous.bulletins.horrillo-bulletin.form.label.body" path="body"/>
-	
-	<acme:form-submit code="anonymous.bulletins.horrillo-bulletin.form.button.create" action="/anonymous/horrillo-bulletin/create"/>
-  	<acme:form-return code="anonymous.bulletins.horrillo-bulletin.form.button.return"/>
-</acme:form>
+<acme:list readonly="true">
+	<acme:list-column code="anonymous.horrillo-bulletin.list.label.author" path="author" width="20%"/>
+	<acme:list-column code="anonymous.horrillo-bulletin.list.label.time" path="time" width="20%"/>
+	<acme:list-column code="anonymous.horrillo-bulletin.list.label.body" path="body" width="60%"/>	
+</acme:list>

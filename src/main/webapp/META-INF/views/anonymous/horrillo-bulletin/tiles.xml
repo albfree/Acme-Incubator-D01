@@ -19,11 +19,11 @@
 <tiles-definitions>
 
 	<definition name="anonymous/horrillo-bulletin/form" extends="master">
-		<put-attribute name="body" type="template" value="../anonymous/bulletins/horrillo-bulletin/form.jsp" />
+		<put-attribute name="body" type="template" value="../anonymous/horrillo-bulletin/form.jsp" />
 	</definition>
 
 	<definition name="anonymous/horrillo-bulletin/list" extends="master">
-		<put-attribute name="body" type="template" value="../anonymous/bulletins/horrillo-bulletin/list.jsp" />
+		<put-attribute name="body" type="template" value="../anonymous/horrillo-bulletin/list.jsp" />
 	</definition>
 
 </tiles-definitions>

@@ -28,7 +28,7 @@ The following tools and components are required:
 
 # The contributors of this project are:
 # Alberto Guerrero Ramírez (albgueram@alum.us.es)
-# Diego Horrillo Durán
+# Diego Horrillo Durán (diehordur@alum.us.es)
 # Brayan Nicolás Pérez Cobos (brapercob@alum.us.es)
 # José Manuel Lobato Troncoso (joslobtro@alum.us.es)
 # José Manuel Escobar Ruesga (josescrue@alum.us.es)

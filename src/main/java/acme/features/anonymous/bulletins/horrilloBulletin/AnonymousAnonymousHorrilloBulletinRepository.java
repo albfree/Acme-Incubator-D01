@@ -1,5 +1,5 @@
 
-package acme.features.anonymous.bulletins.horrillo_bulletin;
+package acme.features.anonymous.bulletins.horrilloBulletin;
 
 import java.util.Collection;
 

@@ -8,11 +8,11 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-anonymous.bulletins.horrillo-bulletin.list.label.author = Author
-anonymous.bulletins.horrillo-bulletin.list.label.time = Time
-anonymous.bulletins.horrillo-bulletin.list.label.body = Body
+anonymous.horrillo-bulletin.list.label.author = Author
+anonymous.horrillo-bulletin.list.label.time = Time
+anonymous.horrillo-bulletin.list.label.body = Body
 
-anonymous.bulletins.horrillo-bulletin.form.label.author = Author
-anonymous.bulletins.horrillo-bulletin.form.label.body = Body
-anonymous.bulletins.horrillo-bulletin.form.button.create = Create
-anonymous.bulletins.horrillo-bulletin.form.button.return = Return
+anonymous.horrillo-bulletin.form.label.author = Author
+anonymous.horrillo-bulletin.form.label.body = Body
+anonymous.horrillo-bulletin.form.button.create = Create
+anonymous.horrillo-bulletin.form.button.return = Return
