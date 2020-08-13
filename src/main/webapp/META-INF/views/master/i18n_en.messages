@@ -43,7 +43,7 @@ master.menu.bulletins.list = Bulletins' list
 master.menu.bulletins.create = Create a bulletin
 
 master.menu.anonymous.guerrero-bulletin.list = Guerrero's bulletins list
-master.menu.anonymous.guerreroBulletin.create =  Create a Guerrero's bulletin
+master.menu.anonymous.guerreroBulletin.create =  New Guerrero's bulletin
 
 master.menu.anonymous.escobar-bulletin.list = EscobarBulletins' list
 master.menu.anonymous.escobar-bulletin.create = New EscobarBulletin
@@ -51,8 +51,8 @@ master.menu.anonymous.escobar-bulletin.create = New EscobarBulletin
 master.menu.bulletins.horrillo-bulletin.list = HorrilloBulletins' list
 master.menu.bulletins.horrillo-bulletin.create = New HorrilloBulletin
 
-master.menu.anonymous.perezBulletin.list = Brayan's bulletins list
-master.menu.anonymous.perezBulletin.create = Create Brayan's bulletin
+master.menu.anonymous.perezBulletin.list = Perez's bulletins list
+master.menu.anonymous.perezBulletin.create = New Perez's bulletin
 
 master.menu.anonymous.lobatoBulletin.list = LobatoBulletins' list
 master.menu.anonymous.lobatoBulletin.create = New LobatoBulletin

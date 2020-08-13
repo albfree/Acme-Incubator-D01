@@ -51,8 +51,8 @@ master.menu.anonymous.escobar-bulletin.create = Nuevo EscobarBulletin
 master.menu.bulletins.horrillo-bulletin.list = Lista de HorrilloBulletins
 master.menu.bulletins.horrillo-bulletin.create = Nuevo HorrilloBulletin
 
-master.menu.anonymous.perezBulletin.list = Lista de boletines de Brayan
-master.menu.anonymous.perezBulletin.create = Crear boletín de Brayan
+master.menu.anonymous.perezBulletin.list = Lista de boletines de Perez
+master.menu.anonymous.perezBulletin.create = Crear boletín de Perez
 
 master.menu.anonymous.lobatoBulletin.list = Lista de LobatoBulletins
 master.menu.anonymous.lobatoBulletin.create = Nuevo LobatoBulletin
